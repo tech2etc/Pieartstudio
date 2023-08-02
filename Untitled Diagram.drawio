@@ -1,11 +1,23 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T06:11:57.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="bTAZrKJnsTPkGtoDRRZ3" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T06:16:55.768Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="chmbQ7BjfcDihFl_1lcd" version="21.6.6" type="github">
   <diagram name="Page-1" id="2YBvvXClWsGukQMizWep">
     <mxGraphModel dx="683" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="eIyQyfdwTbH2WIT_anN0-1" value="&lt;font color=&quot;#ffffcc&quot; style=&quot;font-size: 18px;&quot; face=&quot;Tahoma&quot;&gt;Planning&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="eIyQyfdwTbH2WIT_anN0-1" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 18px;&quot; face=&quot;Tahoma&quot;&gt;Planning&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="10" y="10" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eIyQyfdwTbH2WIT_anN0-2" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 18px;&quot; face=&quot;Tahoma&quot;&gt;Development &amp;amp;&lt;br&gt;Implementation&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="110" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIyQyfdwTbH2WIT_anN0-3" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 18px;&quot; face=&quot;Tahoma&quot;&gt;Testing&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="275" y="10" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="eIyQyfdwTbH2WIT_anN0-4" value="&lt;font color=&quot;#1a1a1a&quot; style=&quot;font-size: 18px;&quot; face=&quot;Tahoma&quot;&gt;Release&lt;br&gt;Staging&lt;br&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eIyQyfdwTbH2WIT_anN0-8" value="Planning" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="20" y="90" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
